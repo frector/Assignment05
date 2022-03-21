@@ -1,0 +1,16 @@
+.custom {
+    width: 165px;
+    margin-top: 30px;
+}
+form {
+    background: lightgray;
+    border-color: orange;
+    border-style:solid;
+    
+}
+@media screen and (max-width: 900px){
+    form {
+        width:250px;
+    }
+    
+}
